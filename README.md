@@ -28,7 +28,7 @@ The final result was a set of new prices that achieved a **2.19% weighted averag
 
 ## Key Findings & Visualizations
 
-The following visualizations were created in Python to tell the story of our findings. They validate the success of the pricing model and provide clear insights for the business.
+The following visualizations were created in [Python](notebooks/Price_change_assessment_NAPA.ipynb) to tell the story of our findings. They validate the success of the pricing model and provide clear insights for the business.
 
 
 ### 1. Price Comparison: New vs. Old and Competitor
