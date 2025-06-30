@@ -42,13 +42,13 @@ This chart shows that our new prices (green) have successfully moved away from o
 
 This histogram proves that we adhered to the critical customer retention rule. Every single price change falls within the -15% to +15% range, with a large number of products receiving a healthy increase between 5% and 15%.
 
-![Price Change Distribution](visualizations/2_price_change_distribution.png)
+![Price Change Distribution](Price_change_distribution.png)
 
 ### 3. Competitor Price Difference After Adjustment
 
 This chart visualizes our improved competitive position. After the changes, most of our prices are now very close to the competitor's (the zero line), with a more balanced distribution of products priced slightly above or below, indicating a deliberate and strategic positioning.
 
-![Competitor Price Difference](visualizations/4_competitor_difference.png)
+![Competitor Price Difference](Competitor_Price_Difference.png)
 
 ## Repository Structure
 
