@@ -35,19 +35,19 @@ The following visualizations were created in Python to tell the story of our fin
 
 This chart shows that our new prices (green) have successfully moved away from our old prices (blue) and are now more tightly aligned with our competitor's prices (orange).
 
-![New vs. Old and Competitor](Our_vs_Competitor_vs_New_Final_Price.png)
+![New vs. Old and Competitor](Visualizations/Our_vs_Competitor_vs_New_Final_Price.png)
 
 ### 2. Price Change Distribution: Validating the +/- 15% Rule
 
 This histogram proves that we adhered to the critical customer retention rule. Every single price change falls within the -15% to +15% range, with a large number of products receiving a healthy increase between 5% and 15%.
 
-![Price Change Distribution](Price_change_distribution.png)
+![Price Change Distribution](Visualizations/Price_change_distribution.png)
 
 ### 3. Competitor Price Difference After Adjustment
 
 This chart visualizes our improved competitive position. After the changes, most of our prices are now very close to the competitor's (the zero line), with a more balanced distribution of products priced slightly above or below, indicating a deliberate and strategic positioning.
 
-![Competitor Price Difference](Competitor_Price_Difference.png)
+![Competitor Price Difference](Visualizations/Competitor_Price_Difference.png)
 
 ### 4. Competitive Positioning: Strategic Realignment
 
@@ -56,7 +56,7 @@ This chart visualizes our improved competitive position. After the changes, most
 *   **New Final Price:** Our new pricing is now positioned much closer to the competitor, closing a significant portion of the gap.
 *   **Insightful Detail:** Importantly, our new average price is still slightly *below* the competitor's. This is a strong strategic position, as it allows us to capture increased revenue without positioning ourselves as the most expensive option in the market, thereby maintaining a competitive edge.
   
-![Weighted Average Price Comparison](Weighted_Average_Price_Comparison.png)
+![Weighted Average Price Comparison](Visualizations/Weighted_Average_Price_Comparison.png)
 
 ---
 
@@ -67,7 +67,7 @@ This chart visualizes our improved competitive position. After the changes, most
 *   **Green Bars:** These are the few products where we are now priced slightly higher than the competitor, a strategic decision likely based on volume and margin.
 *   **Overall Picture:** The chart clearly shows that we have dramatically reduced the overall price variance. Instead of having many products priced far below the competitor, most are now clustered tightly around the zero line, indicating a more consistent and data-driven pricing policy. 
 
-![Price Difference vs Competitor](Price_Difference_vs_Competitor.png)
+![Price Difference vs Competitor](Visualizations/Price_Difference_vs_Competitor.png)
 
 ---
 
@@ -75,7 +75,7 @@ This chart visualizes our improved competitive position. After the changes, most
 
 **Insight:** This chart provides the most important top-line result for the business. Our strategic price adjustments successfully lifted the total projected revenue from **$25.24 million** to **$25.80 million**. This represents a **+2.19% increase**, which is perfectly aligned with the project's primary financial goal of 2.2%. The small difference (0.01%) is a direct result of adhering to the strict +/- 15% individual price change rule, demonstrating a successful balance between revenue growth and customer retention.
 
-![Revenue Comparison](Revenue_Comparison.png)
+![Revenue Comparison](Visualizations/Revenue_Comparison.png)
 
 
 ## Repository Structure
