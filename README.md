@@ -36,7 +36,7 @@ The following visualizations were created in Python to tell the story of our fin
 
 This chart shows that our new prices (green) have successfully moved away from our old prices (blue) and are now more tightly aligned with our competitor's prices (orange).
 
-![New vs. Old and Competitor](Screenshot 2025-06-29 233420.png)
+![New vs. Old and Competitor](Our_vs_Competitor_vs_New_Final_Price.png)
 
 ### 2. Price Change Distribution: Validating the +/- 15% Rule
 
